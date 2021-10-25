@@ -551,4 +551,10 @@ body {
         margin-left: 0;
         margin-top: 15px;
     }
+    .slide {
+        height: 470px;
+    }
+    .slide {
+        padding: 50px;
+    }
 }
